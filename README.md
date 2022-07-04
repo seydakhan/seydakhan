@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Şeyda
 - 👀 I’m interested in java projects
-- 🌱 I’m currently learning flutter and vue js
 - 📫 How to reach me https://www.linkedin.com/in/%C5%9Feyda-karahan-89366894
 
 <!---
